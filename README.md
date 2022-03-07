@@ -40,5 +40,6 @@ This heat map shows who is using Citi Bikes most often, broken down by both gend
 
 
 ## Summary
-High level summary
+The results of the analysis show that a lot of the rides for Citi Bike in New York City seem to be for morning and evening work commutes during the week, along with some weekend afternoon rides that are likely leisure or workouts. Many of the rides also tend to be in Manhattan, which is very densely populated with a lot of business and offices, and a lot of apartment living where residents are less likely to have a car of their own and parking a car or navigating traffic can be difficult. Most of the riders also seem to be subscribers to the service, using it often, rather than just one-time users. For a service like this to work in Des Moines, it would be best to target a similar area, where a lot of people live and work and may not have a very long commute, and a bike sharing service could save them the hassle of morning/evening commute traffic or the hassle of finding somewhere to park their car.
+
 2 other visualizations
