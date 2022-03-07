@@ -6,6 +6,8 @@ The purpose of this analysis is to analyze what factors might be important for g
 ## Results
 [NYC Citi Bike Data](https://public.tableau.com/app/profile/rob.barbush/viz/CitiBikeModule_16463421882900/NYCCitiBike#1 "NYC Citi Bike")
 
+desc
+
 ![Rides by Starting Location](https://github.com/RBarbush84/bikesharing/blob/main/Resources/Rides%20by%20Start%20Loc.png)
 
 desc
@@ -30,6 +32,11 @@ desc
 
 desc
 
+![Daily Rides by Start Time and Gender](https://github.com/RBarbush84/bikesharing/blob/main/Resources/Daily%20Rides%20by%20Start%20Time%20and%20Gender.png)
+
+desc
+
+![Daily Rides by Start Time, Gender and User Type](https://github.com/RBarbush84/bikesharing/blob/main/Resources/Daily%20Rides%20by%20Start%20Time%20and%20Gender%20and%20User%20Type.png)
 
 
 ## Summary
